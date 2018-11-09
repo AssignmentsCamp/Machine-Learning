@@ -19,6 +19,27 @@
 
 ## <h2 id="curriculum">课程列表</h2>
 
+
+### 新增
+- 第一阶段:<br>
+  - [统计学习方法]<br>
+  - [neural network and deep learning]<br>
+  - [PRML]<br>
+  - [deep learning book]<br>
+- 第二阶段:<br>
+  - [NTU Machine Learning + MLDS + DLCV + Assignment]
+      - [学习地址](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)<br>
+  - [机器学习基石]<br>
+  - [Hinton coursera](https://github.com/dzwduan/My-Machine-Learning-Path/tree/master/Hinton-Coursera)<br>
+  - [Cs229 + Assignement]<br>
+  - [Cs231n 2019version + Assignment]<br>
+  - [Cs224 2019version + Assignement]<br>
+  - [Cs234 + Cs294 + Introduction book + Assignment]<br>
+  - [Cse599w + cse599g + cv_hw + Assignment](https://github.com/pjreddie?tab=overview&from=2018-10-01&to=2018-10-31)<br>
+
+
+
+
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
